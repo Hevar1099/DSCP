@@ -6,8 +6,8 @@ This project focuses on processing and analyzing large-scale text data from blog
 ## Folder Structure
 ```r
 project_root/
-        │-- Data/                   # Contains text data files
-        │   │-- en_US.blogs.txt
+    │-- Data/                   # Contains text data files
+│   │-- en_US.blogs.txt
 │   │-- en_US.news.txt
 │   │-- en_US.twitter.txt
 │-- Output/                 # Stores generated plots and results
